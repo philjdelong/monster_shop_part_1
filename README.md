@@ -6,7 +6,7 @@
 
 ### [Daniel Frampton](https://github.com/DanielEFrampton)
 ### [Melissa Robbins](https://github.com/mel-rob)
-### [Phillip DeLong](https://github.com/philjdelong)
+### [Phil DeLong](https://github.com/philjdelong)
 ### [De'Marcus Kirby](https://github.com/DanielEFrampton)
 
 ## Background and Description
